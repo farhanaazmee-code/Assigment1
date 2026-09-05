@@ -49,13 +49,13 @@ Technologies Used
 Project Structure
 Python/
  │
-├── Student Grade Calculator/
+ ├── Student Grade Calculator/
  │           └── grade_calculator.py
  │
-├── Shopping Cart/
+ ├── Shopping Cart/
  │            └── shopping_cart.py
  │
-└── README.md
+ └── README.md
 
 Setup and Run Instructions
 Prerequisites
