@@ -1,4 +1,4 @@
-Python Projects
+Python Projects 
 
 This folder contains two simple Python projects developed for academic purposes to practice and demonstrate basic Python programming concepts: a Student Grade Calculator and a Shopping Cart.
 
